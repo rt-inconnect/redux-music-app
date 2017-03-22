@@ -1,0 +1,20 @@
+export const ADD_ERROR = 'ADD_ERROR'
+export const REMOVE_ERROR = 'REMOVE_ERROR'
+
+export const FETCH_SOUNDS = 'FETCH_SOUNDS'
+export const CANCEL_FETCHING_SOUNDS = 'CANCEL_FETCHING_SOUNDS'
+
+export const CHANGE_PLAYING = 'CHANGE_PLAYING'
+export const SEEK_PLAYING = 'SEEK_PLAYING'
+export const PAUSE_PLAYING = 'PAUSE_PLAYING'
+export const PLAY_PLAYING = 'PLAY_PLAYING'
+export const IS_BUFFERING = 'IS_BUFFERING'
+
+export const SET_SHUFFLE = 'SET_SHUFFLE'
+export const SET_REPEAT = 'SET_REPEAT'
+export const SET_MUTE = 'SET_MUTE'
+export const SET_VOLUME = 'SET_VOLUME'
+
+export const SET_STYLES = 'SET_STYLES'
+
+export const CHANGE_PLAYLIST = 'CHANGE_PLAYLIST'

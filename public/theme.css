@@ -1,0 +1,54 @@
+/* [COLORS] */
+.app-base-background {
+  background: #f50;
+  background: linear-gradient(#f70,#f30);
+}
+.app-base-background.btn:hover, .app-base-background.btn:active {
+  background-color: #a92c00!important;
+}
+.app-extra-background {
+  background-color: #f7f3f0;
+}
+.app-extra-light-background {
+  background-color: #fff;
+}
+.app-base-color {
+  color: #ff4300;
+}
+.app-base-color.btn:hover, .app-base-color.btn:active {
+  background-color: #ccc!important;
+  color: #ec3e00!important;
+}
+.app-base-color-muted {
+  color: #933d04;
+}
+.app-base-color-muted.btn:hover,.app-base-color-muted.btn:active {
+  color: #933d04;
+}
+.app-base-color-muted.btn.enabled {
+  color: #fff;
+}
+.app-extra-light-color {
+  color: #fff!important;
+}
+.app-font-color {
+  color: #000;
+}
+.app-font-color-muted {
+  color: #666363;
+}
+
+.app-player-top-border {
+  border-right: 1px solid #eadbd0;
+}
+.app-player-bottom-border {
+  border-right: 1px solid #ff5100;
+}
+
+.rangeslider-horizontal {
+  background: #ad4805!important;
+}
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #fff!important;
+}
+/* [END COLORS] */
